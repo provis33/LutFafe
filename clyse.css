@@ -1,0 +1,225 @@
+
+*{
+    border: 1px solid red;
+}
+
+
+.conteiner {
+width: 1400px;
+
+}
+
+
+
+.head {
+width: 1400px;
+    height: 700px;
+background-image: url(img/photodune-3598715-woman-in-red-m.jpg);
+}
+
+.creativia {
+height: 70px;
+background: linear-gradient(to bottom, rgb(91, 91, 91) 3px, black 3px, black 52px,rgba(0, 0, 0, 0) 52px);
+display: flex;
+}
+
+.img {
+
+    margin-left: 115px;
+}
+
+
+.home {
+    color: rgba(240, 248, 255, 0.582);
+text-decoration: none;
+display: block;
+height: 18px;
+
+}
+.home-1 {
+    color: rgba(240, 248, 255, 0.582);
+text-decoration: none;
+height: 18px;
+}
+
+.di {
+margin-left: 100px;
+    display: flex;
+   gap: 35px;
+   justify-content: center;
+   margin-top: 18px;
+}
+
+
+.text-head { 
+display: flex;
+justify-content: center;
+align-items: center;
+text-align: center;
+margin-top: 180px;
+}
+
+
+
+.creativia-2 {
+    color: brown;
+    font-family: 'Raleway', sans-serif;
+}
+
+.creativia-1 { color: white;
+    font-family: 'Raleway', sans-serif;
+}
+
+.lorem {
+    color: white;
+    font-family: 'Raleway', sans-serif;
+}
+
+
+.releway {
+    
+}
+
+
+.f {
+display: flex;
+justify-content: center;
+align-items: center;
+gap: 30px;
+}
+
+.features { 
+    background-color: rgb(211, 8, 8);
+    width: 175px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+align-items: center;
+color: white;
+}
+
+
+.freepsd {
+    background-color: rgb(8, 8, 8);
+    width: 175px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+align-items: center;
+color: white;
+}
+
+
+
+.home-1:hover {
+   border-top: 2px red solid;
+border-bottom: 2px red solid;
+    color: white;   
+}
+
+.home:hover {
+    border-top: 2px red solid;
+    border-bottom: 2px red solid;
+    color: white;
+    
+}
+
+
+.about-1 {
+    font-weight: bold;
+color: black;
+font-size: 25px;
+}
+
+
+.creativia-3 {
+font-weight: bold;
+    color: red;
+    font-size: 25px;
+}
+
+.about {
+
+    text-align: center ; 
+
+    
+}
+
+.ad {
+
+     color: red;
+}
+
+.lorem-1 {
+text-align: center;
+    width: 570px;
+}
+
+.hwo {
+    height: 45px;
+   background-color: darkgrey;
+border: 1px rgb(141, 141, 141) solid;
+width: 570px;
+display: flex;
+align-items: center;
+}
+
+.min {
+    height: 45px;
+    background-color: darkgrey;
+ border-right: 1px rgb(141, 141, 141) solid;
+width: 60px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.img-1 {
+    background-image: url(img/pp.png);
+    width: 18px;
+    height: 18px;
+}
+
+
+.hwois {
+    color: red;
+}
+
+
+
+.hwo-2 {
+
+    border-left: 2px solid grey;
+    border-right: 2px grey solid;
+    border-bottom: 2px grey solid;
+    width: 568px;
+}
+
+.solid {
+    height: 45px;
+    background-color: darkgrey;
+    border: 1px rgb(141, 141, 141) solid;
+ width: 570px;
+ display: flex;
+ align-items: center;
+}
+
+.img-solid {
+    background-image: url(img/popi.png);
+    width: 18px;
+    height: 18px;
+}
+
+.text-solid {
+    color: black;
+
+}
+
+.text-sol {
+    width: 60px;
+    height: 45px;
+    border-right: 1px rgb(141, 141, 141) solid;
+display: flex;
+justify-content: center;
+align-items: center;
+}
